@@ -1,2 +1,2 @@
 # AP-G34_Python_and_ML_Application
- Assigments Problem Solutions of Internship in Machine Learning
+ All the necessary material and assignments solutions of internship by SURE Trust
